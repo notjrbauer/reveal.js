@@ -29,7 +29,7 @@ body {
   background-color: #111111; }
 
 .reveal {
-  font-family: "Oxygen", sans-serif;
+  font-family: "Merriweather", sans-serif;
   font-size: 30px;
   font-weight: 200;
   letter-spacing: -0.02em;
@@ -51,7 +51,7 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #eeeeee;
-  font-family: "merriweathersans", sans-serif;
+  font-family: "Montserrat", Impact, sans-serif;
   line-height: 0.9em;
   letter-spacing: -0.03em;
   text-transform: none;

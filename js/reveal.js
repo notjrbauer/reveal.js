@@ -71,10 +71,12 @@ var Reveal = (function(){
 			rollingLinks: true,
 
 			// Theme (see /css/theme)
-			theme: null,
+			theme: 'night',
+			// theme_font: "merriweather",
+			// theme_color: "black-mint",
 
 			// Transition style
-			transition: 'default', // default/cube/page/concave/zoom/linear/fade/none
+			transition: 'linear', // default/cube/page/concave/zoom/linear/fade/none
 
 			// Transition speed
 			transitionSpeed: 'default', // default/fast/slow
